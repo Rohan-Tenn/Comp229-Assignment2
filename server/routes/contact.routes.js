@@ -19,6 +19,4 @@ router.delete('/api/contacts/:id', deleteContactById);
 router.delete('/api/contacts', deleteAllContacts);
 
 
-
-
 export default router;
